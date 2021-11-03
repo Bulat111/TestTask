@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">UsaPopulation</string>
+    <string name="nation">Nation: %1$s</string>
+    <string name="population">Population: %1$s</string>
+    <string name="year">Year: %1$s</string>
+    <string name="error_occurred">An error occurred</string>
+    <string name="wrong_state">Wrong state</string>
+    <string name="sort">Sort</string>
+    <string name="check_your_internet">Check your internet connection</string>
+</resources>
